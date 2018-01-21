@@ -26,6 +26,7 @@
 #include<mutex>
 #include "IMU/configparam.h"
 #include "Converter.h"
+#include "unistd.h"    // add by cc
 
 namespace ORB_SLAM2
 {
