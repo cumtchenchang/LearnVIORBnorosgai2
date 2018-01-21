@@ -28,6 +28,8 @@
 
 #include "ORBmatcher.h"
 
+#include "unistd.h"    // add by cc
+
 #include<mutex>
 #include<thread>
 
