@@ -19,6 +19,9 @@
 */
 
 #include "Viewer.h"
+
+#include "unistd.h"    // add by cc
+
 #include <pangolin/pangolin.h>
 
 #include <mutex>
